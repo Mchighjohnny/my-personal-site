@@ -227,11 +227,13 @@
     width: 33.3333333333333333%;
     padding:0 15px;
   }
-
-  .service-content i {
-    font-size: 30px;
+  
+  .service-content i img {
+    max-width: 20px;
+    max-height: 20px ;
     line-height: 46px;
   }
+  
 
   .service-content h3 {
     font-size : 16px;
